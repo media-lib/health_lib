@@ -1,0 +1,6 @@
+# robots.txt web.archive.org 2009-07-01
+
+User-agent: *
+Disallow: /web/1
+Disallow: /web/2
+Crawl-delay: 3
