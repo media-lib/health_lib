@@ -1,0 +1,199 @@
+a {
+	color : #336666
+}
+
+a:active {
+	color : #336666
+}
+
+EM.authorbio, I.authorbio {
+	/* This is used for the titles of books in the authorbio. */
+	font-style : normal;
+}
+
+H1 {
+	margin-bottom : 0;
+	border-width : 0;
+	border-style : none;
+	color : #000000;
+	background : transparent;
+	font : bold 16pt Helvetica, Arial, sans-serif;
+}
+
+H2 {
+	border-width : 0;
+	border-style : none;
+	margin-bottom : 0px;
+	color : #336666;
+	background : transparent;
+	font : 12pt Helvetica, Arial, sans-serif;
+	font-weight : bold;
+}
+
+LI {
+	color : #000000;
+	background : transparent;
+	font-family : "Times New Roman", Times, serif;
+}
+
+P, BLOCKQUOTE {
+	color : #000000;
+	background : transparent;
+	font-family : "Times New Roman", Times, serif;
+}
+
+UL {
+	margin-bottom : 0px;
+	margin-top : 0px;
+}
+
+.articleinfocontent {
+	color : #336666;
+	background : transparent;
+	font : 11px Arial, Helvetica, sans-serif;
+}
+
+.authorbio {
+	color : #000000;
+	background : transparent;
+	font : italic 10pt Arial, Helvetica, sans-serif;
+}
+
+.authorbiotitle {
+	/* This is used for the titles of books in the authorbio. */
+	color : #000000;
+	background : transparent;
+	font : 10pt Arial, Helvetica, sans-serif;
+}
+
+.byline {
+	color : #000000;
+	background : transparent;
+	font : 8pt Arial, Helvetica, sans-serif;
+}
+
+.cltext {
+	border-width : 0;
+	border-style : none;
+	color : #000000;
+	background : transparent;
+	font : bold 10pt Arial, Helvetica, sans-serif;
+}
+
+.heading {
+	/* for page headings */
+	margin-bottom : 0;
+	border-width : 0;
+	border-style : none;
+	color : #000000;
+	background : transparent;
+	font : bold 16pt Helvetica, Arial, sans-serif;
+}
+
+.headline {
+	/* Not an article headline. It is used for news headlines and some section headings. */
+	border-width : 0;
+	border-style : none;
+	color : #336666;
+	background : transparent;
+	font : bold 10pt Arial, Helvetica, sans-serif;
+}
+.headlinesmall {
+	/* Not an article headline. It is used for news headlines and some section headings. */
+	border-width : 0;
+	border-style : none;
+	color : #336666;
+	background : transparent;
+	font : bold 9pt Arial, Helvetica, sans-serif;
+}
+
+.issuemonth {
+	border-width : 0;
+	border-style : none;
+	color : #336666;
+	background : transparent;
+	font : bold 10pt Arial, Helvetica, sans-serif;
+	text-decoration : none;
+	letter-spacing : 5px;
+}
+
+.references {
+	color : #000000;
+	background : transparent;
+	font : 8pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+.requiredfield {
+	color : #CC0000;
+	background : transparent;
+	font : 14pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+.section {
+	color : #336666;
+	background : transparent;
+	font : bold 10pt Arial, Helvetica, sans-serif;
+}
+
+.sidebar {
+	border-width : 0;
+	border-style : none;
+	color : #000000;
+	background : transparent;
+	font : 10pt Arial, Helvetica, sans-serif;
+}
+
+.smallbody {
+	border-width : 0;
+	border-style : none;
+	color : #000000;
+	background : transparent;
+	font : 10pt "Times New Roman", Times, serif;
+}
+
+.smallheadline {
+	/* Used for the additional little headline that sometimes showsup rightbefore the start of the body of the article */
+	border-width : 0;
+	border-style : none;
+	margin-bottom : 0px;
+	padding-bottom : 0px;
+	color : #000000;
+	background : transparent;
+	font : 11pt Arial, Helvetica, sans-serif;
+	font-weight : bold;
+}
+
+.subcltext {
+	border-width : 0;
+	border-style : none;
+	color : #000000;
+	background : transparent;
+	font : bold 11pt Arial, Helvetica, sans-serif;
+}
+
+.subheadline {
+	/* Subheadline is used in the body of the artilces. */
+	border-width : 0;
+	border-style : none;
+	margin-bottom : 0px;
+	color : #336666;
+	background : transparent;
+	font : 12pt Arial, Helvetica, sans-serif;
+	font-weight : bold;
+}
+
+.terms {
+	border-width : 0;
+	border-style : none;
+	color : #CCCC99;
+	background : transparent;
+	font : bold 8pt Arial, Helvetica, sans-serif;
+}
+
+.unboldheadline {
+	border-width : 0;
+	border-style : none;
+	color : #336666;
+	background : transparent;
+	font : 10pt Arial, Helvetica, sans-serif;
+}

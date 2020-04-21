@@ -1,0 +1,5 @@
+  BODY, P, A, TD, TH, UL, OL, LI, DL, DT, DD  {	font-size: 95%}
+.lead,.navleft,navright,.department,.tease,.more {	font-size: 95%}
+a:link,a:active,a:visited,a:hover,a.department:link,a.department:visited,a.department:active,a.department:hover  {	font-size: 95%}
+a.forum:link,a.forum:visited,a.forum:active,a.forum:hover  {	font-size: 95%}
+p.forum   {	font-size: 95%}

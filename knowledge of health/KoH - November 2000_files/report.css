@@ -1,0 +1,11 @@
+#container {float: left;padding: 20px 0 20px 210px;background: url(graphics/logobg.gif) 250px 0 repeat-y;border-right-width: 1px;border-right-color: #B5A58a;border-right-style:solid;}
+#col2 {width: 500px; padding: 0 20px;text-decoration: dotted;}
+.picture {margin: 5px;border: 0px;float: none;height: auto;width: auto;}
+
+ul, ol {margin:0 0 0 20px}
+.reading {line-height: 1.8em;}
+.readingindent {line-height: 1em;margin:15px; padding: 10px;}
+.chart {line-height: 1em;}
+.title {font: 1.75em Georgia;text-align: center;}
+.subtitle {text-align: center;font-family: Georgia;font-size: 1.2em;font-style: italic;}
+.sidebar {font: .9em Arial;}

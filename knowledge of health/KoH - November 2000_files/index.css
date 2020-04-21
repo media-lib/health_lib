@@ -1,0 +1,78 @@
+body {color: #5A4C38; background: #FFFFFF;max-width: 980px}
+a {text-decoration: none;}
+a img {border: none;}
+html body a:link, a:visited {color: #5A4C38;}
+html body a:hover {color: #000000; background-color: #D3C8B5;}
+
+.header	{height: 40px;text-align: center;background: #B5A58a; padding: 0 0 0 200px;border: 1px solid #5A4C38;text-transform: uppercase;}
+#header a:link 		{float: left; padding: 7px 20px;font-family: Georgia;font-size: 21px;color: #FFFFFF;}
+#header a:visited 	{float: left; padding: 7px 20px;font-family: Georgia;font-size: 21px;color: #FFFFFF;}
+#header a:hover 	{float: left; padding: 7px 20px;font-family: Georgia;font-size: 21px;color: #000000;}
+
+.footer {clear: both; border: 1px solid #5A4C38;padding: 10px 50px;font-size: 0.8em;background: #B5A58a;text-align: center;}
+
+#menu	  {position: absolute;top: 15px;left: 20px;visibility: visible;width:200px;}
+.archive  {font: 0.9em/1.2em Verdana;border: 1px dashed #5A4C38;background-color: #D3C8B5; text-decoration: none;padding: 1px;width:190px}
+.archive a{text-decoration: none;}
+.archive b{text-transform: uppercase;}
+.archive a:hover{text-decoration: none; color:#FFFFFF;background-color: #B5A58a;}
+.menu	  {font: 0.9em/1.1em Verdana;margin: 1px 1px 1px 5px;padding: 1px;text-decoration: none;width:190px}
+#menu .title {font: 1.5em Georgia;text-align: center;}
+
+#container {float: left;padding: 20px 0 20px 210px;border-right-width: 1px;border-right-color: #B5A58a;border-right-style:solid;}
+
+.todaysdate {font: .9em Verdana;text-transform: uppercase; letter-spacing: 0.25em;text-align: center;}
+.welcome 	{font: italic .8em/1.1em Verdana;padding: 1em 0;text-align: center;}
+.story 		{font: .95em/1.5em Verdana;padding: 1em 0;border-top: 1px solid #B5A58a;}
+.separator 	{font: italic .9em Times;padding: 0 0 1em; margin: 0 0 1em; text-align: center; background: url(graphics/separator.gif) 50% 100% no-repeat;}
+
+.caps {font: 0.9em Verdana #333000;text-transform: uppercase; letter-spacing: 0.3em;text-align: center;}
+
+#col2 {float: left;width: 350px; font: .9em/1.2em Verdana;padding: 0 10px;}
+#col2 .title {font: 1.75em Georgia;text-align: center;}
+#col2 p a:link {text-decoration: underline;}
+
+#col3 {float: left;width: 200px; font: .8em/1.2em Verdana;padding: 10px;}
+#col3 .title {font: 1.2em Georgia;text-align: center;}
+#col3 p {font: 1em/1.1em Verdana;}
+#col3 p a:link {text-decoration: underline;}
+
+#col4 {float: left;width: 150px; padding: 10px;border-left-width: 1px;border-left-style:solid;border-left-color: #B5A58a;}
+#col4 .title {font: 1.2em Georgia;text-align: center;}
+#col4 p {font: .8em/1.1em Verdana;}
+
+#dual {float: left;position: relative; width: 355px;padding: 0px 10px;border-top-width: 0px;border-right-width: 0px;border-bottom-width: 0px;visibility: visible;}
+
+.chart {font:  .8em/1em Arial; }
+
+
+.ad	{font: .8em/1em Georgia; margin: 2px;padding: 5px;border: 1px dotted #B5A58A;text-decoration: none;	width:140px;text-align: center;}
+#friend {clear: both;margin-bottom: 3em;font-size: 0.85em;text-align: left;margin-left: 220px;}
+.picture {float: left; margin: 4px;padding:4px;height:100px; width:100px;border: 1px solid #B5A58a}
+.caption {font: italic .8em Georgia; border: 1px solid #B2B2B2; border-width: 1px 0 1px; background: #E8E2D7;}
+.petition {text-transform: uppercase; letter-spacing: 0.33em;}
+.petitionbox	 {font: .95em/1.5em Verdana;padding: 5px;border: 1px solid #ff0000;}
+
+.title a:visited {font: 1em Georgia;text-align: center;}
+
+/* HIGHSLIDE */
+
+.highslide {cursor: url(../highslide/graphics/zoomin.cur), pointer; outline: none;}
+.highslide img {border: 2px solid gray;}
+.highslide:hover img {border: 2px solid white;}
+
+.highslide-image {border: 10px solid white;}
+.highslide-image-blur {}
+.highslide-caption {display: none;border: 5px solid white;border-top: none;padding: 5px;background-color: white;}
+
+
+.control {float: right; display: block;	margin: 0 5px;font-size: 9pt; font-weight: bold;text-decoration: none;text-transform: uppercase;}
+.control:hover {color: black !important;}
+
+.highslide-html {background-color: white;}
+.highslide-html-blur {border: 2px solid gray;}
+.highslide-html-content {position: absolute;display: none;}
+.highslide-loading {display: block;	color: black;font: bold 8pt sans-serif; text-decoration: none;padding: 2px;border: 1px solid black;background-color: white;}
+.highslide-display-block {display: block;}
+.highslide-display-none {display: none;}
+.highslide-move {cursor: move;}

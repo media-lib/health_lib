@@ -1,0 +1,8 @@
+.uweHeader
+{
+	background: #798AA4;
+}
+.uweHeaderMenu, .uweHeaderMenu a, .uweHeaderMenu a:hover, .uweHeaderMenu a:visited
+{
+	color:white;
+}
